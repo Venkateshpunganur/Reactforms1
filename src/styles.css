@@ -1,0 +1,21 @@
+* {
+  background-color: aquamarine;
+}
+
+.div1 {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input1 {
+  margin: 10px;
+  text-align: center;
+}
+button {
+  background-color: brown;
+  color: white;
+}
